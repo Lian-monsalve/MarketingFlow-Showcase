@@ -6,8 +6,10 @@
 ![Engine](https://img.shields.io/badge/Engine-Heuristic_Inference_Pipeline-0A0A0F?style=for-the-badge&logo=googlecloud&logoColor=A855F7&labelColor=141622&color=A855F7)
 ![Workspace](https://img.shields.io/badge/Integration-Google_Workspace_OAuth_2.0-0A0A0F?style=for-the-badge&logo=google&logoColor=00E5FF&labelColor=141622&color=00E5FF)
 ![Security](https://img.shields.io/badge/SecOps-Docker_Non--Root_%7C_Cloudflare_WAF-0A0A0F?style=for-the-badge&logo=cloudflare&logoColor=10B981&labelColor=141622&color=10B981)
+[![Live Demo](https://img.shields.io/badge/Cloudflare_Edge-Live_Production-0A0A0F?style=for-the-badge&logo=cloudflarepages&logoColor=38BDF8&labelColor=141622&color=38BDF8)](https://marketingflow-6ms.pages.dev)
 
 **Centro de Comando Estratégico, Orquestación Multicanal y Automatización Algorítmica de Pauta Digital conectado en tiempo real con Google Workspace.**
+**🔗 Producción en Vivo (Cloudflare Pages Edge): [https://marketingflow-6ms.pages.dev](https://marketingflow-6ms.pages.dev)**
 
 </div>
 
